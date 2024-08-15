@@ -8,12 +8,12 @@ Welcome to the official submission repository for the **SRCAS Hackathon** organi
 
 Please fill in the following details in this README file before submitting your repository:
 
-- **Team Name:** [Your Team Name]  
-- **Team ID:** [Your Team ID]  
-- **Problem Statement ID:** [Problem Statement ID]  
-- **Project Title:** [Your Project Title]  
-- **Team Leader Name:** [Team Leader's Full Name]  
-- **Team Members:** [Team Member's Names]  
+- **Team Name:** [Tech Army]  
+- **Team ID:** [T3PS03T07]  
+- **Problem Statement ID:** [T3PS03]  
+- **Project Title:** [Blockchain for renewable energy trading]  
+- **Team Leader Name:** [Sanjai J]  
+- **Team Members:** [Manishwar S,Shri hari S,Suresh Kumar S]  
 
 ---
 
